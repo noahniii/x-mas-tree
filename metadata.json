@@ -1,0 +1,5 @@
+{
+  "name": "FunGoTree",
+  "description": "An interactive, generative 3D Bauhaus-style Christmas tree using p5.js and WebGL. Features high-saturation gradients, halftone textures, and dynamic geometric restructuring.",
+  "requestFramePermissions": []
+}
